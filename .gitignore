@@ -1,0 +1,15 @@
+target/
+*.class
+.vscode/settings.json
+.vscode/launch.json
+.classpath
+.project
+.settings/
+.idea/
+.env
+*.env
+data/*.mv.db
+data/*.trace.db
+data/*.lock.db
+bin/
+*.lock.db
